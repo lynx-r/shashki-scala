@@ -1,1 +1,1 @@
-Replica of shashki.online but on Scala.
+The replica of https://shashki.online but on [Scala](https://www.scala-lang.org/).
